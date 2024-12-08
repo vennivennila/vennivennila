@@ -1,15 +1,16 @@
-Hi there! 🌟 I'm Vennila G
+<h1 align="center">Hi there! 🌟 I'm Vennila G</h1>
 
-🚀 About Me:
+#🚀 About Me:
 
 I am a tech enthusiast for a Linux system administration, troubleshooting, and technical support. I enjoy diving deep into server configurations, and working with cutting-edge technologies like Docker and Kubernetes. Passionate about problem-solving, I strive to deliver efficient, scalable, and secure IT solutions.
 
 🎯 My motto? "Keep learning, keep growing, and make technology work smarter!"
 
 🔗 Let’s Connect and Collaborate:
-🌎 LinkedIn
-📸 Instagram
-📘 Facebook
+🌎 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vennila-g-338363254\)
+
+📸 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vennila_sl_vm/)
+📘 [![Facebook](https://img.shields.io/badge/Facebook-Connect-brightgreen?style=for-the-badge&labelColor=black&logo=facebook)](https://www.facebook.com/profile.php?id=100057614589067&mibextid=ZbWKwL)
 📧 Email Me
 
 💻 Tech Arsenal:
