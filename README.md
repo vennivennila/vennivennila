@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 🌟 I'm Vennila G</h1>
+<h1 align="center">Hi there! 👋 I'm Vennila G</h1>
 
 ### 🚀 **About Me:**
 
@@ -6,12 +6,12 @@ I am a tech enthusiast for a Linux system administration, troubleshooting, and t
 
 🎯 My motto? "Keep learning, keep growing, and make technology work smarter!"
 
-🔗 Let’s Connect and Collaborate:
-🌎 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vennila-g-338363254\)
+### 🔗 **Connect with Me:**
 
-📸 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vennila_sl_vm/)
-📘 [![Facebook](https://img.shields.io/badge/Facebook-Connect-brightgreen?style=for-the-badge&labelColor=black&logo=facebook)](https://www.facebook.com/profile.php?id=100057614589067&mibextid=ZbWKwL)
-📧 Email Me
+- [Instagram](https://www.instagram.com/vennila_sl_vm/)
+- [LinkedIn](https://www.linkedin.com/in/vennila-g-338363254)
+- [Facebook](https://www.facebook.com/profile.php?id=100057614589067&mibextid=ZbWKwL)
+- [Email](mailto:vennilavennila472@gmail.com)
 
 ### 💻 **Tech Stack**
 
