@@ -40,7 +40,7 @@ Introduction to Machine Learning
 ✨ Hands-on experience in building and managing containerized applications
 
 🏅 Achievements:
-Recognition for delivering scalable, high-performing infrastructure solutions.
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vennivennila)
 
 🌟 Together, let’s build a smarter, connected, and efficient tech future!
 
