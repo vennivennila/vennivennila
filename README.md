@@ -10,8 +10,6 @@ I am a tech enthusiast for a Linux system administration, troubleshooting, and t
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/vennila_sl_vm/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vennila-g-338363254) [![Facebook](https://img.shields.io/badge/Facebook-%230077B5.svg?logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100057614589067&mibextid=ZbWKwL) [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:vennilavennila472@gmail.com)
 
-
-
 ### 💻 **Tech Stack**
 
 | **Category**              | **Tools & Technologies**                                                                                              |
@@ -27,10 +25,14 @@ I am a tech enthusiast for a Linux system administration, troubleshooting, and t
 | **Tools**                 | ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white) ![Hypervisor](https://img.shields.io/badge/Hypervisor-%23404b60.svg?style=flat-square&logo=virtualbox&logoColor=white) |
 
 # 📈 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=vennivennila&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vennivennila&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vennivennila&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+## 🏆 **GitHub Trophies**
+
+![](https://github-profile-trophy.vercel.app/?username=vennivennila&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
 
 🌟 Together, let’s build a smarter, connected, and efficient tech future!
 
