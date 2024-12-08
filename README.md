@@ -27,21 +27,6 @@ I am a tech enthusiast for a Linux system administration, troubleshooting, and t
 | **Tools**                 | ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white) ![Hypervisor](https://img.shields.io/badge/Hypervisor-%23404b60.svg?style=flat-square&logo=virtualbox&logoColor=white) |
 
 
-📜 Certifications That Back Me Up:
-
-Basics of Python
-Azure Fundamentals
-Introduction to Machine Learning
-
-🎨 What I Bring to the Table:
-✨ Proficient in configuring and managing secure Linux environments
-✨ Skilled in deploying responsive web designs
-✨ Expertise in troubleshooting system and application issues
-✨ Hands-on experience in building and managing containerized applications
-
-🏅 Achievements:
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vennivennila)
-
 🌟 Together, let’s build a smarter, connected, and efficient tech future!
 
 
