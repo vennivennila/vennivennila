@@ -26,8 +26,11 @@ I am a tech enthusiast for a Linux system administration, troubleshooting, and t
 | **Databases**             | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)|
 | **Tools**                 | ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white) ![Hypervisor](https://img.shields.io/badge/Hypervisor-%23404b60.svg?style=flat-square&logo=virtualbox&logoColor=white) |
 
-## 📈 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vennivennila&show_icons=true&count_private=true&theme=radical)
+# 📈 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=vennivennila&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=vennivennila&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vennivennila&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
 
 🌟 Together, let’s build a smarter, connected, and efficient tech future!
 
