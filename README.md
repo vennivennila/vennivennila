@@ -13,6 +13,7 @@ I am a tech enthusiast for a Linux system administration, troubleshooting, and t
 [![Facebook](https://img.shields.io/badge/Facebook-%230077B5.svg?logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100057614589067&mibextid=ZbWKwL)  
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:vennilavennila472@gmail.com)
 
+
 ### 💻 **Tech Stack**
 
 | **Category**              | **Tools & Technologies**                                                                                              |
