@@ -8,10 +8,10 @@ I am a tech enthusiast for a Linux system administration, troubleshooting, and t
 
 ### 🔗 **Connect with Me:**
 
-- [Instagram](https://www.instagram.com/vennila_sl_vm/)
-- [LinkedIn](https://www.linkedin.com/in/vennila-g-338363254)
-- [Facebook](https://www.facebook.com/profile.php?id=100057614589067&mibextid=ZbWKwL)
-- [Email](mailto:vennilavennila472@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/vennila_sl_vm/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vennila-g-338363254)  
+[![Facebook](https://img.shields.io/badge/Facebook-%230077B5.svg?logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100057614589067&mibextid=ZbWKwL)  
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:vennilavennila472@gmail.com)
 
 ### 💻 **Tech Stack**
 
